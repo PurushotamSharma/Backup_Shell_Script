@@ -1,4 +1,4 @@
-# Script for  Daily, Weekly, and Monthly Backup
+# Script for  Daily, Weekly, and Monthly Backups
 
 ## Overview
 
