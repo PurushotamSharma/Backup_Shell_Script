@@ -37,4 +37,3 @@ By contributing to this project, you agree that your contributions will be licen
 Thank you for contributing!
 
 ---
-**Note:** Replace `PurushotamSharma` and `sharmapurushotam57@gmail.com` with your actual GitHub username and the appropriate security contact email address, respectively. Customize the URLs and details based on your project's specifics.
